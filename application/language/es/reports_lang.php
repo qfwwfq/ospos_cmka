@@ -85,4 +85,7 @@ $lang['reports_sale_type'] = 'Tipo de Venta';
 $lang['reports_all'] = 'Todo';
 $lang['reports_returns'] = 'Devoluciones';
 $lang['reports_discount'] = 'Descuento mayor que ';
+$lang['reports_CMKA_reports'] = 'Reportes del Centro de Meditación Kadampa';
+$lang['reports_CMKA_cierre_caja'] = 'Reporte de cierre de caja de CMKA';
+$lang['reports_CMKA_class'] = 'Clase';
 ?>

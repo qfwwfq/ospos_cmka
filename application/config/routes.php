@@ -60,5 +60,7 @@ $route['scaffolding_trigger'] = "";
 
 $route['404_override'] = 'errors/page_missing';
 
+
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

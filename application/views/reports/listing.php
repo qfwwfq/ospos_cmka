@@ -3,6 +3,13 @@
 <div id="page_title" style="margin-bottom:8px;"><?php echo $this->lang->line('reports_reports'); ?></div>
 <div id="welcome_message"><?php echo $this->lang->line('reports_welcome_message'); ?>
 <ul id="report_list">
+	<br>
+	<li><h3><?php echo $this->lang->line('reports_CMKA_reports'); ?></h3>
+		<ul>
+			<li><a href="<?php echo site_url('reports/summary_CMKA_cierre_caja');?>"><?php echo $this->lang->line('reports_CMKA_cierre_caja'); ?></a></li>
+		</ul>
+	</li>
+	
 	<li><h3><?php echo $this->lang->line('reports_graphical_reports'); ?></h3>
 		<ul>
 			<li><a href="<?php echo site_url('reports/graphical_summary_sales');?>"><?php echo $this->lang->line('reports_sales'); ?></a></li>
